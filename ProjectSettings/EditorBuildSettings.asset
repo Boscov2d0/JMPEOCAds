@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 665991a5273d23545aab556e19a2b1c7
+  - enabled: 1
+    path: "Assets/Scenes/\u0421haracter\u0421ustomization.unity"
+    guid: 7b15cf86cd27db44687b9acec49d0c21
+  - enabled: 0
+    path: "Assets/Scenes/\u0421haracter\u0421ustomization 1.unity"
+    guid: 750fdfc32584b684b9f9288409a3b93f
+  - enabled: 0
+    path: "Assets/Scenes/\u0421haracter\u0421ustomization 2.unity"
+    guid: afcc2108e9e17154db5978ad4622e09b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
